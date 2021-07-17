@@ -7,7 +7,8 @@ body {
     text-align: center;
     font-size: 150%;
     background-color: rgb(73, 157, 226);
-    height: 800px;
+    height: 100%;
+
   } 
   input {
     font: inherit;

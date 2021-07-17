@@ -20,7 +20,7 @@ function initialize() {
   gameArea = document.querySelector("#gameArea");
   gameAreaContext = gameArea.getContext("2d");
   gameAreaWidth = 400;
-  gameAreaHeight = 600;
+  gameAreaHeight = 500;
   cellWidth = 20;
   gameArea.width = gameAreaWidth;
   gameArea.height = gameAreaHeight;
