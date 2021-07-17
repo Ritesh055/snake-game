@@ -1,0 +1,21 @@
+body {
+    background: dodgerblue linear-gradient(45deg, aqua, dodgerblue, deeppink) fixed;
+    color: white;
+    font: normal 32px/1.6 system-ui, sans-serif;
+    text-shadow: 0 1px 1px hsl(0 0% 0% / 20%);
+    margin: 20px auto;
+    text-align: center;
+    font-size: 150%;
+    background-color: rgb(73, 157, 226);
+    height: 800px;
+  } 
+  input {
+    font: inherit;
+    padding: 0.2em 0.5em;
+  }
+
+  canvas{
+    background-color: rgb(192, 210, 214);
+    border-radius: 20px;
+    box-shadow: 3px 5px 6px black;
+}
